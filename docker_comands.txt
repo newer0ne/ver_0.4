@@ -1,0 +1,6 @@
+docker build -t nensi_ver.0.3.2 .
+docker run -d -p 8503:8503  --restart=always --name ver.0.3.2 -v C:\envs\nensi\query_log.txt:/app/query_log.txt -v C:\envs\nensi\login_log.txt:/app/login_log.txt -v C:\envs\nensi\config.yaml:/app/config.yaml -v C:\envs\nensi\.env:/app/.env --env-file .env nensi_ver.0.3.2
+docker save -o nensi_ver.0.3.2.tar nensi_ver.0.3.2
+docker load -i nensi_ver.0.3.2.tar
+
+https://nensi-api.sergeyzaharov.keenetic.pro/api/search

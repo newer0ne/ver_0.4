@@ -1,0 +1,53 @@
+credentials:
+  usernames:
+    abakarovra:
+      email: AbakarovRA@rushydro.ru
+      name: Рамазан Абакаров
+      password: $2b$12$fPfWg6rBQ3Hd04qpeIuL/OrqmlXe/3DX8LcVmo0D6M8RT9NyNyNji
+    abakarovaov:
+      email: abakarovaov@rushydro.ru
+      name: Ольга Абакарова
+      password: $2b$12$fPfWg6rBQ3Hd04qpeIuL/OrqmlXe/3DX8LcVmo0D6M8RT9NyNyNji
+    atanshievkv:
+      email: atanshievkv@rushydro.ru
+      name: Константин Атанжиев
+      password: $2b$12$fPfWg6rBQ3Hd04qpeIuL/OrqmlXe/3DX8LcVmo0D6M8RT9NyNyNji
+    smirnovma:
+      email: smirnovma@rushydro.ru
+      name: Михаил Смирнов
+      password: $2b$12$fPfWg6rBQ3Hd04qpeIuL/OrqmlXe/3DX8LcVmo0D6M8RT9NyNyNji
+    zakharovsv:
+      email: zakharovsv@rushydro.ru
+      name: Сергей Захаров
+      password: $2b$12$fPfWg6rBQ3Hd04qpeIuL/OrqmlXe/3DX8LcVmo0D6M8RT9NyNyNji
+    prolubnikovvv:
+      email: prolubnikovvv@rushydro.ru
+      name: Виктор Пролубников
+      password: $2b$12$fPfWg6rBQ3Hd04qpeIuL/OrqmlXe/3DX8LcVmo0D6M8RT9NyNyNji
+    kiryanovvv:
+      email: kiryanovvv@rushydro.ru
+      name: Владислав Кирьянов
+      password: $2b$12$fPfWg6rBQ3Hd04qpeIuL/OrqmlXe/3DX8LcVmo0D6M8RT9NyNyNji
+    knyazkovsv:
+      email: knyazkovsv@rushydro.ru
+      name: Сергей Князьков
+      password: $2b$12$fPfWg6rBQ3Hd04qpeIuL/OrqmlXe/3DX8LcVmo0D6M8RT9NyNyNji
+    vladimirovnv:
+      email: vladimirovnv@rushydro.ru
+      name: Никита Владимиров
+      password: $2b$12$fPfWg6rBQ3Hd04qpeIuL/OrqmlXe/3DX8LcVmo0D6M8RT9NyNyNji
+    kelaskinaee:
+      email: kelaskinaee@rushydro.ru
+      name: Елизаветта Келаскина
+      password: $2b$12$fPfWg6rBQ3Hd04qpeIuL/OrqmlXe/3DX8LcVmo0D6M8RT9NyNyNji
+    sinyakovaor:
+      email: sinyakovaor@rushydro.ru
+      name: Ольга Синякова
+      password: $2b$12$fPfWg6rBQ3Hd04qpeIuL/OrqmlXe/3DX8LcVmo0D6M8RT9NyNyNji
+cookie:
+  expiry_days: 30
+  key: some_signature_key # Must be string
+  name: some_cookie_name
+preauthorized:
+  emails:
+  - melsby@gmail.com

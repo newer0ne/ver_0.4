@@ -1,0 +1,8 @@
+streamlit
+pandas
+python-dotenv
+requests
+openpyxl
+flask
+PyYAML
+streamlit_authenticator
